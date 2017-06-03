@@ -1,1 +1,3 @@
 this is third file, that was added to project
+
+This is the last file in project
