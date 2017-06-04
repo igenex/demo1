@@ -6,4 +6,4 @@ This is my file, that i added to project
 
 Создаем файл в ветке dev
 
-Дописал строку в ветке dev
+Дописал строку в ветке dev и дополнил
