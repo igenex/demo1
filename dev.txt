@@ -1,0 +1,7 @@
+This is my file, that i added to project
+
+Опять поменял
+
+Опять поменял
+
+Создаем файл в ветке dev
