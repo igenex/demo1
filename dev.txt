@@ -5,3 +5,5 @@ This is my file, that i added to project
 Опять поменял
 
 Создаем файл в ветке dev
+
+Дописал строку в ветке dev
