@@ -18,5 +18,5 @@ This is my file, that i added to project
 
 Модификация в файле dev
 
-Изменение 20-40
+Изменение 20-40 и в 20-43
 
